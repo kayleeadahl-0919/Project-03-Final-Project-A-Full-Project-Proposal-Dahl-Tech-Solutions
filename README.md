@@ -11,8 +11,8 @@ This project serves as a portfolio piece showcasing skills in:
 - Reflection and iterative improvement  
 
 ## Live Website
-- Live Website: [Dahl Tech Solutions Website](https://github.com/kayleeadahl-0919/Project-03--Final-Project---A-Full-Project-Proposal/)
-- Documentation Folder: [Project 03: Final Project - A Full Project Github Folder](https://github.com/kayleeadahl-0919/Project-03--Final-Project---A-Full-Project-Proposal/tree/main/docs)
+- Live Website: [Dahl Tech Solutions Website]( https://kayleeadahl-0919.github.io/Project-03-Final-Project-A-Full-Project-Proposal-Dahl-Tech-Solutions/)
+- Documentation Folder: [Project 03: Final Project - A Full Project Github Docs Folder](https://github.com/kayleeadahl-0919/Project-03-Final-Project-A-Full-Project-Proposal-Dahl-Tech-Solutions/tree/main/docs)
 
 ## Repository Structure
 dahl-tech-solutions-website/
