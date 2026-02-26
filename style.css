@@ -152,3 +152,18 @@ footer {
         font-size: 24px;
     }
 }
+
+/* Center specific sections like Why Choose Us and Contact */
+.center-section {
+    text-align: center;
+    max-width: 600px;
+    margin: 40px auto;
+    background-color: #f4f7fb;
+    padding: 25px;
+    border-radius: 10px;
+}
+
+.center-section ul {
+    list-style-position: inside;
+    padding: 0;
+}
